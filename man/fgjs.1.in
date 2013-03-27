@@ -1,0 +1,36 @@
+.\" Copyright (C) 2002 Cameron Moore
+.\"
+.\" This program is free software; you can redistribute it and/or
+.\" modify it under the terms of the GNU General Public License
+.\" as published by the Free Software Foundation; either version 2
+.\" of the License, or (at your option) any later version.
+.\"
+.\" This program is distributed in the hope that it will be useful,
+.\" but WITHOUT ANY WARRANTY; without even the implied warranty of
+.\" MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+.\" GNU General Public License for more details.
+.\"
+.\" You should have received a copy of the GNU General Public License
+.\" along with this program; if not, write to the Free Software
+.\" Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+.\" Or try here: http://www.fsf.org/copyleft/gpl.html
+.\"
+.TH FGJS 1 "January 2002" "@VERSION@" "@PACKAGE@"
+.SH NAME
+fgjs \- FlightGear Joystick Utility
+.SH SYNOPSIS
+.B fgjs
+.SH DESCRIPTION
+.B fgjs
+is a joystick utility for the FlightGear Flight Simulator.  It allows
+you to generate an appropriate configuration file for your joystick.
+For more information visit <http://wiki.flightgear.org/Joystick>.
+.SH BUGS
+Send bug reports to <flightgear\-devel@lists.sourceforge.net> or visit
+<http://code.google.com/p/flightgear\-bugs>.
+.SH SEE ALSO
+fgfs(1), fgpanel(1), js_demo(1), terrasync(1)
+.SH AUTHORS
+Tony Peden, et al.  See
+.I Thanks
+file for a list of contributors.
